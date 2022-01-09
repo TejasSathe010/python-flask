@@ -1,0 +1,9 @@
+## To create virutal environment
+
+(base) Apples-MacBook-Air:Flask apple$ python3 -m venv flask_project
+(base) Apples-MacBook-Air:Flask apple$ ls
+Flask-Website   flask_project
+(base) Apples-MacBook-Air:Flask apple$ source flask_project/bin/activate
+(flask_project) (base) Apples-MacBook-Air:Flask apple$ which python
+/Users/apple/Programming/Python/Flask/flask_project/bin/python
+(flask_project) (base) Apples-MacBook-Air:Flask apple$ pip3 list
